@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 潘其山
+title: 
 
 # Name pronunciation (optional)
 name_pronunciation: Qishan Pan
