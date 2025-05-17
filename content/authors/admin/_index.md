@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D. candidate of Power Electronics
+role: Ph.D. candidate in Power Electronics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -51,13 +51,14 @@ interests:
   - DC transformer (DCX)
   - Regulated DC transformer (RDCX)
   - EV On-board Chargers
+  - DC fast chargers
   - 48/1V voltage regulator module
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Ph.D. candidate in power electronics
+    institution: ShanghaiTech University
+    date_start: 2022-09-01
+    date_end: now
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
