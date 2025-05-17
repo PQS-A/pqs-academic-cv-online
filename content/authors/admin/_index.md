@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 
+title: Qishan Pan (潘其山)
 
 # Name pronunciation (optional)
-name_pronunciation: Qishan Pan
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Qishan
+last_name: Pan
 
 # Status emoji
 status:
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Ph.D. candidate of Power Electronics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: ShanghaiTech University
+    url: https://www.shanghaitech.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
